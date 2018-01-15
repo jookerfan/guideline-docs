@@ -1,0 +1,19 @@
+<div class="modal-content">
+    <h3>jQuery Introduction</h3>
+    <hr />
+    <p>jQuery - Javascript library for dynamic behavior of web pages</p>
+    <p>NOTE: In the background, jQuery code is converted to the javascript code</p>
+    <p>ex: head tag - contains style</p>
+    <p>body tag - contains structure</p>
+    <p>script tag - contains behavior</p>
+    <hr />
+    <p>$(document).ready(() => {</p>
+    <p>&nbsp;&nbsp;called after rendering is done</p>
+    <p>});</p>
+    <hr />
+    <p>purpose of jquery library methods</p>
+    <p>- to listen for an event</p>
+    <p>- to add a visual effect</p>
+    <p>EventHandler - event listener + callback function</p>
+    <hr />
+</div>
