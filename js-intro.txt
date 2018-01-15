@@ -1,13 +1,13 @@
 <div class="modal-content">
-  <h3>JS Introduction</h3>
-  <hr />
-  <p>JS - used to add dynamic behavior to web pages</p>
-  <p>Variables, Functions, Objects, Classes, Modules</p>
-  <p>Then package.json => Projects and finally PACKAGES</p>
-  <hr />
-  <p>datatypes - numbers, strings, booleans, null and undefined</p>
-  <p>instance - object of a datatype(class)</p>
-  <p>libraries - static class</p>
-  <p>arrow function and iterators</p>
-  <hr />
+    <h3>JS Introduction</h3>
+    <hr />
+    <p>JS - used to add dynamic behavior to web pages</p>
+    <p>Variables, Functions, Objects, Classes, Modules</p>
+    <p>Then package.json => Projects and finally PACKAGES</p>
+    <hr />
+    <p>datatypes - numbers, strings, booleans, null and undefined</p>
+    <p>instance - object of a datatype(class)</p>
+    <p>libraries - static class</p>
+    <p>iterators - loop functions on array list</p>
+    <hr />
 </div>
