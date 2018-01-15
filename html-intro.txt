@@ -1,4 +1,16 @@
 <div class="modal-content">
 	<h3>HTML Introduction</h3>
-	<p>HTML Introduction</p>
+	<hr />
+	<p>HTML - HyperText Markup Language</p>
+	<p>Its used to structure a webpage</p>
+	<p>ex: html tags - text, images, videos, tables</p>
+	<p>NOTE: Doctypes were meant to act as links to set of rules that the HTML page had to follow to be considered as good HTML</p>
+	<hr />
+	<p>Structure of a website:</p>
+	<p>1. header</p>
+	<p>2. navigation bar</p>
+	<p>3. main content</p>
+	<p>4. side bar</p>
+	<p>5. footer</p>
+	<hr />
 </div>
