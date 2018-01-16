@@ -1,0 +1,10 @@
+<div class="modal-content">
+    <h3>Bootstrap Introduction</h3>
+    <hr />
+    <p>Bootstrap is a free front-end framework for faster and easier responsive web development</p>
+    <p>1. Add doctype and lang and charset properties</p>
+    <p>2. Set meta name="viewport" content="width=device-width, initial-scale=1"</p>
+    <p>3.a. .container - provides a responsive fixed width container</p>
+    <p>3.b. .container-fluid - provides a full width container</p>
+    <hr />
+</div>
